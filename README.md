@@ -1,4 +1,4 @@
-# <h1 style="background: linear-gradient(to right, purple, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">Arij Hamraoui</h1>
+# <h1 style="background: linear-gradient(to right, purple, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">Arij Hamraouii</h1>
 
 > "Chaque défi est une opportunité de grandir, chaque ligne de code une chance de créer."
 
