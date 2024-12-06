@@ -38,7 +38,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
@@ -85,8 +84,8 @@ Application web pour la **préparation aux concours d'ingénieurs**.
 ## 📧 Me Contacter
 📍 Adresse : N°5 rue 1425 cité 18 Janvier, cité Ettadhamen, Ariana  
 📞 Téléphone : 21 960 334  
-✉️ Email : arij.hamraoui.pro@gmail.com  
 ✉️ Email : arij.hamraoui24@gmail.com  
+✉️ Email : arij.hamraoui.pro@gmail.com  
 
 
 ---
