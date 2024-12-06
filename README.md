@@ -2,7 +2,7 @@
 
 > "Chaque défi est une opportunité de grandir, chaque ligne de code une chance de créer."
 
-👩‍💻 Développeuse Web & Mobile | Innovatrice en Systèmes d'Information | Transformant l'innovation en code
+👩‍💻 Développeuse Web & Mobile | Innovatrice en Systèmes d'Information | Transformant l'innovation en code 🚀
 
 ---
 
