@@ -82,15 +82,13 @@ Application web pour la **préparation aux concours d'ingénieurs**.
 ---
 
 ## 📧 Me Contacter
-📍 Adresse : N°5 rue 1425 cité 18 Janvier, cité Ettadhamen, Ariana  
-📞 Téléphone : 21 960 334  
+📍 Adresse : Ariana  
+📞 Téléphone : +216 21 960 334  
 ✉️ Email : arij.hamraoui24@gmail.com  
 ✉️ Email : arij.hamraoui.pro@gmail.com  
 
 
 ---
-
-*Actuellement à la recherche d'un stage de fin d'études en développement mobile et web* 🚀
 
 ---
 
