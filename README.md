@@ -83,7 +83,6 @@ Application web pour la **préparation aux concours d'ingénieurs**.
 
 ## 📧 Me Contacter
 📍 Adresse : Ariana  
-📞 Téléphone : +216 21 960 334  
 ✉️ Email : arij.hamraoui24@gmail.com  
 ✉️ Email : arij.hamraoui.pro@gmail.com  
 
