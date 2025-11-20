@@ -20,8 +20,6 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
-
 <p align="right">
   <img src="EXTERNAL_GIF_URL" alt="Programmer girl coding" width="400" />
 </p>
