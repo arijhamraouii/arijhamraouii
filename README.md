@@ -1,8 +1,8 @@
 # <h1 style="background: linear-gradient(to right, purple, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">Arij Hamraoui</h1>
 
-> "Chaque défi est une opportunité de grandir, chaque ligne de code une chance de créer."
+> "Every challenge is an opportunity to grow, every line of code a chance to create."
 
-👩‍💻 Développeuse Web & Mobile | Étudiante Ingénieur en Informatique | Transformant l'innovation en code 🚀
+👩‍💻 Web & Mobile Developer | Computer Science Engineering Student | Turning innovation into code 🚀
 
 ---
 
@@ -22,24 +22,24 @@
 ---
 
 ## 🚀 About Me
-Étudiante en **1ère année cycle d'ingénieur en Informatique**, diplômée de l'**ISET Charguia** avec une **Licence en Technologies de l'Information** spécialisée en **Développement des Systèmes d'Information**. Passionnée par l'innovation technologique, je combine expertise technique et créativité pour concevoir des solutions numériques performantes et évolutives.
+**1st year Computer Science Engineering student**, passionate about technological innovation. I combine technical expertise and creativity to design high-performance and scalable digital solutions. I hold a **Bachelor's degree in Information Technology** specialized in **Information Systems Development** from **ISET Charguia**.
 
 ---
 
-## 🎓 Formation
+## 🎓 Education
 
-**🎯 Cycle d'Ingénieur en Informatique** - *En cours (1ère année)*  
-Formation avancée en ingénierie logicielle et systèmes d'information
+**🎯 Computer Science Engineering Degree** - *In Progress (1st Year)*  
+Advanced training in software engineering and information systems
 
-**📜 Licence en Technologies de l'Information**  
-*ISET Charguia - Diplômée*  
-Spécialité : Développement des Systèmes d'Information
+**📜 Bachelor's Degree in Information Technology**  
+*ISET Charguia - Graduated*  
+Specialization: Information Systems Development
 
 ---
 
-## 💻 Technologies & Compétences
+## 💻 Technologies & Skills
 
-### 📱 Développement Mobile
+### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -56,12 +56,12 @@ Spécialité : Développement des Systèmes d'Information
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 💾 Bases de Données
+### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 👨‍💻 Langages de Programmation
+### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,44 +70,44 @@ Spécialité : Développement des Systèmes d'Information
 
 ---
 
-## 📊 Mes Projets Phares
+## 📊 Featured Projects
 
-### 💳 **Banque**
-Une plateforme bancaire intégrée pour la **gestion des comptes bancaires** avec architecture **SOA**.
+### 💳 **Banking System**
+An integrated banking platform for **bank account management** with **SOA architecture**.
 
 **Technologies:** Spring Boot, Angular, MySQL
 
 ---
 
 ### 🍽️ **MyFood**
-Système de **gestion de restauration** avec architecture **microservices**.
+**Restaurant management system** with **microservices architecture**.
 
 **Technologies:** Spring Boot, Node.js, MongoDB
 
 ---
 
 ### 🌍 **Oasis**
-Plateforme web centralisant les opportunités de bourses avec **scraping intelligent** par **IA**.
+Web platform centralizing scholarship opportunities with **intelligent scraping** powered by **AI**.
 
 **Technologies:** Python, Django, Web Scraping, Machine Learning
 
 ---
 
 ### 📚 **Prepa Du Prepa**
-Application web pour la **préparation aux concours d'ingénieurs**.
+Web application for **engineering entrance exam preparation**.
 
 **Technologies:** Angular, Spring Boot, PostgreSQL
 
 ---
 
-## 📧 Me Contacter
-📍 **Localisation:** Ariana, Tunisie  
-✉️ **Email professionnel:** arij.hamraoui.pro@gmail.com  
-✉️ **Email personnel:** arij.hamraoui24@gmail.com  
+## 📧 Contact Me
+📍 **Location:** Ariana, Tunisia  
+✉️ **Professional Email:** arij.hamraoui.pro@gmail.com  
+✉️ **Personal Email:** arij.hamraoui24@gmail.com  
 
 ---
 
-## 📈 **Statistiques GitHub**
+## 📈 **GitHub Statistics**
 
 ![Arij's GitHub stats](https://github-readme-stats.vercel.app/api?username=arijhamraouii&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijhamraouii&layout=compact&theme=radical)
@@ -116,6 +116,6 @@ Application web pour la **préparation aux concours d'ingénieurs**.
 
 <div align="center">
   
-**💡 Toujours en quête d'apprentissage et d'innovation !**
+**💡 Always seeking learning and innovation!**
 
 </div>
