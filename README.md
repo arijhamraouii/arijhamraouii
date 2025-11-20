@@ -40,7 +40,7 @@ I'm a **1st-year Computer Science Engineering student** with a passion for build
 
 | 🚀 **Computer Science Engineering** | 🎯 **Bachelor's in Information Technology** |
 |:---:|:---:|
-| **Status:** In Progress (1st Year) | **Institution:** ISET Charguia |
+| **Institution:** TEK-UP University **Status:** In Progress (1st Year) | **Institution:** ISET Charguia  **Status:** Graduated|
 | **Focus:** Software Engineering & Systems | **Specialization:** Information Systems Development |
 | Advanced algorithms • System design • Architecture | Full-stack development • Database design • Architecture |
 
