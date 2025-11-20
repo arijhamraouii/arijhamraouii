@@ -23,8 +23,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="right">
-  <img src="assets/programmer_girl.gif" alt="Programmer girl coding" width="400" />
+  <img src="EXTERNAL_GIF_URL" alt="Programmer girl coding" width="400" />
 </p>
+
 I'm a **1st-year Computer Science Engineering student** with a passion for building innovative digital solutions. With a strong foundation in Information Systems Development from my **Bachelor's degree at ISET Charguia**, I specialize in creating scalable web and mobile applications that solve real-world problems.
 
 ### 🎯 What Drives Me
