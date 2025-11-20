@@ -128,11 +128,6 @@ I'm a **1st-year Computer Science Engineering student** with a passion for build
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arijhamraouii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&icon_color=9333EA&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arijhamraouii&theme=radical&hide_border=true&background=0D1117&ring=9333EA&fire=9333EA&currStreakLabel=9333EA" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijhamraouii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=C9D1D9" />
-
 ![Arij's GitHub stats](https://github-readme-stats.vercel.app/api?username=arijhamraouii&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijhamraouii&layout=compact&theme=radical)
 
