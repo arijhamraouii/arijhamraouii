@@ -20,9 +20,9 @@
 
 ## 🌟 About Me
 
-<p align="right">
+
   <img src="https://tenor.com/view/anime-girl-purple-cathedral-butterfly-glitter-gif-8207722368291550143" alt="Purple anime girl" width="400" />
-</p>
+
 
 
 
