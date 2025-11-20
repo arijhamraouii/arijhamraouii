@@ -1,8 +1,8 @@
-# <h1 style="background: linear-gradient(to right, purple, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">Arij Hamraouii</h1>
+# <h1 style="background: linear-gradient(to right, purple, violet); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">Arij Hamraoui</h1>
 
 > "Chaque défi est une opportunité de grandir, chaque ligne de code une chance de créer."
 
-👩‍💻 Développeuse Web & Mobile | Innovatrice en Systèmes d'Information | Transformant l'innovation en code 🚀
+👩‍💻 Développeuse Web & Mobile | Étudiante Ingénieur en Informatique | Transformant l'innovation en code 🚀
 
 ---
 
@@ -22,7 +22,18 @@
 ---
 
 ## 🚀 About Me
-Étudiante passionnée en Technologies de l'Information, spécialisée en Développement des Systèmes d'Information. Je combine innovation et expertise technique pour créer des solutions numériques performantes.
+Étudiante en **1ère année cycle d'ingénieur en Informatique**, diplômée de l'**ISET Charguia** avec une **Licence en Technologies de l'Information** spécialisée en **Développement des Systèmes d'Information**. Passionnée par l'innovation technologique, je combine expertise technique et créativité pour concevoir des solutions numériques performantes et évolutives.
+
+---
+
+## 🎓 Formation
+
+**🎯 Cycle d'Ingénieur en Informatique** - *En cours (1ère année)*  
+Formation avancée en ingénierie logicielle et systèmes d'information
+
+**📜 Licence en Technologies de l'Information**  
+*ISET Charguia - Diplômée*  
+Spécialité : Développement des Systèmes d'Information
 
 ---
 
@@ -64,30 +75,35 @@
 ### 💳 **Banque**
 Une plateforme bancaire intégrée pour la **gestion des comptes bancaires** avec architecture **SOA**.
 
+**Technologies:** Spring Boot, Angular, MySQL
+
 ---
 
 ### 🍽️ **MyFood**
 Système de **gestion de restauration** avec architecture **microservices**.
+
+**Technologies:** Spring Boot, Node.js, MongoDB
 
 ---
 
 ### 🌍 **Oasis**
 Plateforme web centralisant les opportunités de bourses avec **scraping intelligent** par **IA**.
 
+**Technologies:** Python, Django, Web Scraping, Machine Learning
+
 ---
 
 ### 📚 **Prepa Du Prepa**
 Application web pour la **préparation aux concours d'ingénieurs**.
 
+**Technologies:** Angular, Spring Boot, PostgreSQL
+
 ---
 
 ## 📧 Me Contacter
-📍 Adresse : Ariana  
-✉️ Email : arij.hamraoui24@gmail.com  
-✉️ Email : arij.hamraoui.pro@gmail.com  
-
-
----
+📍 **Localisation:** Ariana, Tunisie  
+✉️ **Email professionnel:** arij.hamraoui.pro@gmail.com  
+✉️ **Email personnel:** arij.hamraoui24@gmail.com  
 
 ---
 
@@ -96,3 +112,10 @@ Application web pour la **préparation aux concours d'ingénieurs**.
 ![Arij's GitHub stats](https://github-readme-stats.vercel.app/api?username=arijhamraouii&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijhamraouii&layout=compact&theme=radical)
 
+---
+
+<div align="center">
+  
+**💡 Toujours en quête d'apprentissage et d'innovation !**
+
+</div>
