@@ -2,7 +2,7 @@
 
 > "Every challenge is an opportunity to grow, every line of code a chance to create."
 
-👩‍💻 Web & Mobile Developer | Computer Science Engineering Student | Turning innovation into code 🚀
+👩‍💻 Computer Science Engineering Student | Web & Mobile Developer | Turning innovation into code 🚀
 
 ---
 
