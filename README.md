@@ -20,7 +20,9 @@
 
 ## 🌟 About Me
 
-![Programmer girl coding](assets/programmer_girl.gif)
+<p align="right">
+  <img src="https://i.gifer.com/76zC.gif" alt="Programmer girl coding" width="400" />
+</p>
 
 I'm a **1st-year Computer Science Engineering student** with a passion for building innovative digital solutions. With a strong foundation in Information Systems Development from my **Bachelor's degree at ISET Charguia**, I specialize in creating scalable web and mobile applications that solve real-world problems.
 
