@@ -145,7 +145,7 @@ I'm a **1st-year Computer Science Engineering student** with a passion for build
 
 <br>
 
-[![Email](https://img.shields.io/badge/📧-arij.hamraoui.pro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arij.hamraoui.pro@gmail.com)
+[![Email](https://img.shields.io/badge/📧-E-mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arij.hamraoui.pro@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/💼-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arij-hamraoui)
 [![GitHub](https://img.shields.io/badge/💻-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arijhamraouii)
