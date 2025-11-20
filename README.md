@@ -20,7 +20,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
 I'm a **1st-year Computer Science Engineering student** with a passion for building innovative digital solutions. With a strong foundation in Information Systems Development from my **Bachelor's degree at ISET Charguia**, I specialize in creating scalable web and mobile applications that solve real-world problems.
 
