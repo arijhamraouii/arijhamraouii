@@ -126,6 +126,8 @@ I'm a **1st-year Computer Science Engineering student** with a passion for build
 
 ![Arij's GitHub stats](https://github-readme-stats.vercel.app/api?username=arijhamraouii&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijhamraouii&layout=compact&theme=radical)
+![Arij's GitHub stats](https://github-readme-stats.vercel.app/api?username=arijhamraouii&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijhamraouii&layout=compact&theme=radical)
 
 </div>
 
